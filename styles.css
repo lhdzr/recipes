@@ -1,0 +1,15 @@
+div {
+    color: white;
+    background-color: black;
+}
+  
+p {
+    color: red;
+    text-align: justify;
+}
+
+#home {
+width: 10%;
+background-color: blue;
+color: white;
+}
